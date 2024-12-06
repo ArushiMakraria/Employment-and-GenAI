@@ -42,7 +42,7 @@ AI presents transformative opportunities for industries by enhancing efficiency 
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/ArushiMakraria/Employment-and-GenAI.git)
    ```
 2. Explore project files and methodologies for detailed insights.
 3. Refer to included notebooks for replicating the analyses.
